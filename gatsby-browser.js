@@ -5,3 +5,6 @@
  */
 
 // You can delete this file if you're not using it
+
+// 마크다운 테마 적용
+import 'prismjs/themes/prism-tomorrow.css';
