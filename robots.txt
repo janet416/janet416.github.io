@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://janet416.github.io/sitemap-index.xml
+Host: https://janet416.github.io
