@@ -1,6 +1,6 @@
 ---
 date: '2023-01-08'
-title: '블로그 첫 글 테스트'
+title: '블로그 첫 글 테스트!'
 categories: ['Tech', 'SEO', 'Optimization']
 summary: '블로그 첫 글을 올리고 잘 되는지 테스트 해보자!'
 thumbnail: './cute-dog.jpg'
