@@ -12,7 +12,7 @@ module.exports = {
     title: `Janet's tech blog`,
     description: `Learn, apply and share. Janet's tech blog`,
     author: `Janet Cho`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    siteUrl: `https://janet416.github.io/`,
   },
   plugins: [
     {
@@ -46,7 +46,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: '<https://my-website.com/>',
+        siteUrl: 'https://janet416.github.io/',
         stripQueryString: true,
       },
     },
