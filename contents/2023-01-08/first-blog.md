@@ -1,6 +1,6 @@
 ---
 date: '2023-01-08'
-title: '블로그 첫 글'
+title: '블로그 첫 글 테스트'
 categories: ['Tech', 'SEO', 'Optimization']
 summary: '블로그 첫 글을 올리고 잘 되는지 테스트 해보자!'
 thumbnail: './cute-dog.jpg'
@@ -12,9 +12,9 @@ thumbnail: './cute-dog.jpg'
 
 ### 3. 사이즈 체크 3
 
-사이즈를 체크 해본다.
+내용 사이즈
 
-### 마크다운 코드 테스트
+### 코드뷰어 테스트
 
 ```c
 #include <stdio.h>
@@ -25,7 +25,16 @@ int main(void)
 }
 ```
 
-~~테스트~~
+~~이야야야야~~
+**올렐레레레레**
+
+---
+
+> 주석
+
+- 이모지 👋
+
+- [x] 체크박스
 
 - 동해물과
   - 백두산이
@@ -33,8 +42,8 @@ int main(void)
 1. 야야야
 2. 야야야이이
 
-## Source
+## 링크 테스트
 
-- SEO 기본 가이드
+- Link
 
-  [<https://support.google.com/webmasters/answer/7451184?hl=ko&ref_topic=9460495>](https://support.google.com/webmasters/answer/7451184?hl=ko&ref_topic=9460495)
+  [google](https://google.com/)
